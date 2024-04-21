@@ -1,1 +1,2 @@
-Hola, este es un archibo de ejemplo
+Hola, este es un archivo de ejemplo
+Modificación 1: Esta es la primera modificación.
